@@ -6,7 +6,7 @@ I am a full stack JavaScript developer with a primary focus on React.
 
 <br>
 
-- 👨‍💻 I'm currently learning: Next.js 
+- 👨‍💻 I'm currently learning: Next.js and TypeScript
 
 <br>
 
